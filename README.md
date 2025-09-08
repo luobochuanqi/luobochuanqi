@@ -27,7 +27,7 @@
 
 ## 📫 联系我
 
-- 🌐 [B站主页]([text](https://space.bilibili.com/500577206))
+- 🌐 [B站主页](https://space.bilibili.com/500577206)
 
 ---
 
