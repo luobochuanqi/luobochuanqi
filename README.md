@@ -14,6 +14,12 @@
 
 ## 🏆 代表项目
 
+- [FishImmortality](https://github.com/luobochuanqi/FishImmortality)  
+  *使用 CPP Qt5 打造的且基本能玩的 挂机修仙小游戏*
+
+- [MinecraftMod-Mindustry](https://github.com/luobochuanqi/MinecraftMod-Mindustry)  
+  *致力于将知名游戏 Mindustry 带进 Minecraft! 基于 Minecraft Neoforge*
+
 - [PaperPlugin-CheckPoints](https://github.com/luobochuanqi/PaperPlugin-CheckPoints)  
   *Minecraft Paper 服务器的玩法插件*
 
