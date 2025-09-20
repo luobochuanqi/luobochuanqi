@@ -15,6 +15,9 @@
 
 ## 🏆 代表项目
 
+- [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle)  
+  *一个渐进式、综合性的基于 Java + Gradle 的图书馆管理系统实践项目*
+
 - [FishImmortality](https://github.com/luobochuanqi/FishImmortality)  
   *使用 CPP Qt5 打造的且基本能玩的 挂机修仙小游戏*
 
@@ -35,6 +38,7 @@
 ## 📫 联系我
 
 - 🌐 [B站主页](https://space.bilibili.com/500577206)
+- 📧 邮箱：luobochuanqi@qq.com
 
 ---
 
