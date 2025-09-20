@@ -13,6 +13,12 @@
 
 ---
 
+## 📊 GitHub 代码分析
+
+[![luobochuanqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luobochuanqi&show_icons=true&theme=default)](https://github.com/luobochuanqi)
+
+---
+
 ## 🏆 代表项目
 
 - [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle)  
