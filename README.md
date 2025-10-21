@@ -26,7 +26,7 @@
 
 ---
 
-## �🏆 代表项目
+## 🏆 代表项目
 
 - [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle) — 渐进式 Java + Gradle 图书馆管理系统实践
 - [FishImmortality](https://github.com/luobochuanqi/FishImmortality) — 使用 C++/Qt5 实现的挂机修仙小游戏
