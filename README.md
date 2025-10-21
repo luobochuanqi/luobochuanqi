@@ -1,50 +1,55 @@
 # 👋 Hi, I’m luobochuanqi!
 
-🎓 **学生** | 💻 C++ & Java 爱好者 | 🛠️ Minecraft Player
+🎓 学生 · 💻 C++ & Java 爱好者 · 🛠️ Minecraft 玩家
+
+<p align="center">
+  <a href="https://github.com/luobochuanqi">
+    <img src="https://github-readme-stats.vercel.app/api?username=luobochuanqi&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobochuanqi&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/luobochuanqi?label=Follow&style=social" alt="Follow" />
+  <img src="https://img.shields.io/badge/Bilibili-关注-ff69b4?logo=bilibili&style=flat" alt="Bilibili" />
+  <img src="https://img.shields.io/badge/email-luobochuanqi%40qq.com-blue?style=flat&logo=gmail" alt="Email" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luobochuanqi.luobochuanqi" alt="visitor-badge" />
+</p>
 
 ---
 
 ## 🚀 关于我
 
-- 📚 目前是一名学生，热爱编程与学习新知识
-- 💾 擅长 **C++** 和 **Java** 开发
-- 🎮 喜欢为 **Minecraft** 制作和开发 Mod or Plugin
-- 🕹️ 资深的 Minecraft 腐竹，开服时间长达 4 年
+- 📚 目前是一名学生，热爱编程与持续学习
+- 💾 擅长 C++、Java，熟悉常见算法与工程实践
+- � 热衷 Minecraft Mod / Plugin 开发，拥有多年开服与社区运营经验
 
 ---
 
-## 📊 GitHub 代码分析
+## �🏆 代表项目
 
-[![luobochuanqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luobochuanqi&show_icons=true&theme=default)](https://github.com/luobochuanqi)
+- [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle) — 渐进式 Java + Gradle 图书馆管理系统实践
+- [FishImmortality](https://github.com/luobochuanqi/FishImmortality) — 使用 C++/Qt5 实现的挂机修仙小游戏
+- [MinecraftMod-Mindustry](https://github.com/luobochuanqi/MinecraftMod-Mindustry) — 把 Mindustry 带入 Minecraft 的 Mod（Neoforge）
+- [PaperPlugin-CheckPoints](https://github.com/luobochuanqi/PaperPlugin-CheckPoints) — Paper 服务器玩法插件
+- [MinecraftMod-PlayTime](https://github.com/luobochuanqi/MinecraftMod-PlayTime) — 游戏时间统计与可视化 Mod
+- [个人网站](https://github.com/luobochuanqi/luobochuanqi.github.io) — 我的数字空间
 
 ---
 
-## 🏆 代表项目
+## 🧰 技能 / Skills
 
-- [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle)  
-  *一个渐进式、综合性的基于 Java + Gradle 的图书馆管理系统实践项目*
-
-- [FishImmortality](https://github.com/luobochuanqi/FishImmortality)  
-  *使用 CPP Qt5 打造的且基本能玩的 挂机修仙小游戏*
-
-- [MinecraftMod-Mindustry](https://github.com/luobochuanqi/MinecraftMod-Mindustry)  
-  *致力于将知名游戏 Mindustry 带进 Minecraft! 基于 Minecraft Neoforge*
-
-- [PaperPlugin-CheckPoints](https://github.com/luobochuanqi/PaperPlugin-CheckPoints)  
-  *Minecraft Paper 服务器的玩法插件*
-
-- [MinecraftMod-PlayTime](https://github.com/luobochuanqi/MinecraftMod-PlayTime)  
-  *用于统计和可视化 Minecraft 游戏时间的 Mod*
-
-- [个人网站](https://github.com/luobochuanqi/luobochuanqi.github.io)  
-  *我的数字空间，欢迎访问！*
+|                     | 熟悉<br/>Familiar                     | 了解一点<br/>Understand A Little         | 学了皮毛<br/> Just Learned          |
+| ------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| 编程语言<br/>Programming Languages |                         |                                        |                                       |
+| 技术框架/引擎<br/>Frameworks/Engines |                        |                                         |                                      |
 
 ---
 
 ## 📫 联系我
 
-- 🌐 [B站主页](https://space.bilibili.com/500577206)
-- 📧 邮箱：luobochuanqi@qq.com
+- B 站： https://space.bilibili.com/500577206
+- 邮箱： luobochuanqi@qq.com
 
 ---
 
