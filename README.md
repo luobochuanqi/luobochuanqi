@@ -1,6 +1,6 @@
 # 👋 Hi, I’m luobochuanqi!
 
-🎓 学生 · 💻 C++ & Java 爱好者 · 🛠️ Minecraft 玩家
+🎓 Student · 💻 C++ & Java Enthusiast · 🛠️ Minecraft Player
 
 <p align="center">
   <a href="https://github.com/luobochuanqi">
@@ -11,45 +11,45 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/luobochuanqi?label=Follow&style=social" alt="Follow" />
-  <img src="https://img.shields.io/badge/Bilibili-关注-ff69b4?logo=bilibili&style=flat" alt="Bilibili" />
+  <img src="https://img.shields.io/badge/Bilibili-Follow-ff69b4?logo=bilibili&style=flat" alt="Bilibili" />
   <img src="https://img.shields.io/badge/email-luobochuanqi%40qq.com-blue?style=flat&logo=gmail" alt="Email" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=luobochuanqi.luobochuanqi" alt="visitor-badge" />
 </p>
 
 ---
 
-## 🚀 关于我
+## 🚀 About Me
 
-- 📚 目前是一名学生，热爱编程与持续学习
-- 💾 擅长 C++、Java，熟悉常见算法与工程实践
-- � 热衷 Minecraft Mod / Plugin 开发，拥有多年开服与社区运营经验
-
----
-
-## 🏆 代表项目
-
-- [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle) — 渐进式 Java + Gradle 图书馆管理系统实践
-- [FishImmortality](https://github.com/luobochuanqi/FishImmortality) — 使用 C++/Qt5 实现的挂机修仙小游戏
-- [MinecraftMod-Mindustry](https://github.com/luobochuanqi/MinecraftMod-Mindustry) — 把 Mindustry 带入 Minecraft 的 Mod（Neoforge）
-- [PaperPlugin-CheckPoints](https://github.com/luobochuanqi/PaperPlugin-CheckPoints) — Paper 服务器玩法插件
-- [MinecraftMod-PlayTime](https://github.com/luobochuanqi/MinecraftMod-PlayTime) — 游戏时间统计与可视化 Mod
-- [个人网站](https://github.com/luobochuanqi/luobochuanqi.github.io) — 我的数字空间
+- 📚 Currently a student, passionate about programming and continuous learning  
+- 💾 Proficient in C++ & Java, experienced with common algorithms and engineering practices  
+- 🕹️ Keen on Minecraft Mod / Plugin development, with years of server hosting and community operation experience  
 
 ---
 
-## 🧰 技能 / Skills
+## 🏆 Featured Projects
 
-|                     | 熟悉<br/>Familiar                     | 了解一点<br/>Understand A Little         | 学了皮毛<br/> Just Learned          |
-| ------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| 编程语言<br/>Programming Languages |                         |                                        |                                       |
-| 技术框架/引擎<br/>Frameworks/Engines |                        |                                         |                                      |
+- [LearnJavaGradle](https://github.com/luobochuanqi/LearnJavaGradle) — Progressive Java + Gradle library-management system practice  
+- [FishImmortality](https://github.com/luobochuanqi/FishImmortality) — Idle cultivation mini-game built with C++/Qt5  
+- [MinecraftMod-Mindustry](https://github.com/luobochuanqi/MinecraftMod-Mindustry) — Bringing Mindustry into Minecraft (NeoForge)  
+- [PaperPlugin-CheckPoints](https://github.com/luobochuanqi/PaperPlugin-CheckPoints) — Gameplay plugin for Paper servers  
+- [MinecraftMod-PlayTime](https://github.com/luobochuanqi/MinecraftMod-PlayTime) — Play-time statistics & visualization mod  
+- [Personal Website](https://github.com/luobochuanqi/luobochuanqi.github.io) — My digital space  
 
 ---
 
-## 📫 联系我
+## 🧰 Skills
 
-- B 站： https://space.bilibili.com/500577206
-- 邮箱： luobochuanqi@qq.com
+|                     | Familiar                     | Understand A Little         | Just Learned          |
+| ------------------- | ---------------------------- | --------------------------- | --------------------- |
+| Programming Languages | C++, Java, Python, JavaScript | Kotlin, Go, C#              | Rust, Swift           |
+| Frameworks/Engines | Gradle, Qt5, Spring Boot, MyBatis | Minecraft Forge / Fabric / Paper, Unity | React, Vue, Node.js   |
+
+---
+
+## 📫 Contact Me
+
+- Bilibili: https://space.bilibili.com/500577206  
+- Email: luobochuanqi@qq.com  
 
 ---
 
