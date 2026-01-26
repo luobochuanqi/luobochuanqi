@@ -41,8 +41,8 @@
 
 |                       | Familiar                     | Understand A Little         | Just Learned          |
 | --------------------- | ---------------------------- | --------------------------- | --------------------- |
-| Programming Languages | C / C++, Java, Kotlin        | Python, H5                  | Rust, Lua             |
-| Frameworks/Engines    | Gradle, Qt5, Forge / Paper   | Unity, Electron, Ollama     | Vue, Node.js, Flutter |
+| Programming Languages | C/C++, Java, Kotlin, Node.js | Python                      | Rust, Lua             |
+| Frameworks/Engines    | Qt5, Forge/Paper             | OpenGL, Electron, Tauri     | Vue, Flutter          |
 
 ---
 
