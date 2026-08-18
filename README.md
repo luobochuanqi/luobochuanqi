@@ -2,7 +2,7 @@ You can call me Carota. Currently, I'm a student majoring in software engineerin
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=luobochuanqi&show_icons=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=luobochuanqi&show_icons=true&theme=transparent)
+[![GitHub Stats](./profile/stats.svg)](./profile/stats.svg)
 
 </div>
 
