@@ -1,4 +1,4 @@
-You can call me Carota. Currently, I'm a student majoring in software engineering.
+I'm Carota. Currently, I'm a student majoring in software engineering.
 
 <div align="center">
 
