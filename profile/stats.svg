@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Carota&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 1801, Total PRs: 135, Total Issues: 239, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 1802, Total PRs: 135, Total Issues: 239, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 82.56104574101987;
+        stroke-dashoffset: 82.56025914444318;
       }
     }
   
