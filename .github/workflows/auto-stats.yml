@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "43 5 * * *" # 05:43 UTC,避开整点调度高峰
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
+          fail_on_error: true
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
           path: profile/stats.svg
           token: ${{ secrets.STATS_PAT }}
@@ -27,6 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
+          fail_on_error: true
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_PAT }}
